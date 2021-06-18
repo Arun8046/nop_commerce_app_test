@@ -1,0 +1,185 @@
+06/17/2021 $I:39:49 PM: INFO: *** Launching firefox Browser ***
+06/17/2021 $I:39:49 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/17/2021 $I:39:49 PM: INFO: *** Initiated Browser ***
+06/17/2021 $I:39:49 PM: INFO: https://admin-demo.nopcommerce.com/
+06/17/2021 $I:39:56 PM: INFO: *** test_verify_home_page_title passed ***
+06/17/2021 $I:39:58 PM: INFO: *** Launching firefox Browser ***
+06/17/2021 $I:39:58 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/17/2021 $I:40:09 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:57:04 PM: INFO: *** Launching firefox Browser ***
+06/17/2021 $I:57:04 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/17/2021 $I:57:04 PM: INFO: *** Initiated Browser ***
+06/17/2021 $I:57:04 PM: INFO: https://admin-demo.nopcommerce.com/
+06/17/2021 $I:57:11 PM: INFO: *** test_verify_home_page_title passed ***
+06/17/2021 $I:57:13 PM: INFO: *** Launching firefox Browser ***
+06/17/2021 $I:57:13 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/17/2021 $I:57:42 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:25:22 PM: INFO: *** Launching Chrome Browser ***
+06/17/2021 $I:25:22 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/17/2021 $I:26:25 PM: INFO: *** Launching Chrome Browser ***
+06/17/2021 $I:26:25 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/17/2021 $I:26:41 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:26:45 PM: INFO: Login test with multiple creds passed
+06/17/2021 $I:28:06 PM: INFO: *** Launching Chrome Browser ***
+06/17/2021 $I:28:06 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/17/2021 $I:28:30 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:28:33 PM: INFO: Login test with multiple creds passed
+06/17/2021 $I:29:09 PM: INFO: *** Launching Chrome Browser ***
+06/17/2021 $I:29:09 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/17/2021 $I:29:30 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:29:45 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/17/2021 $I:31:01 PM: INFO: *** Launching Chrome Browser ***
+06/17/2021 $I:31:01 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/17/2021 $I:31:25 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/17/2021 $I:31:39 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/17/2021 $I:31:50 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/17/2021 $I:32:01 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/17/2021 $I:32:01 PM: INFO: Login test with multiple creds passed
+06/18/2021 $I:45:43 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:45:43 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/18/2021 $I:46:02 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:46:18 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:46:30 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:46:41 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:46:41 PM: INFO: Login test with multiple creds passed
+06/18/2021 $I:07:31 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:07:31 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:08:32 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:08:32 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:08:44 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:08:44 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:16:21 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:16:21 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:16:34 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:16:34 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:18:58 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:18:58 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:19:11 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:19:11 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:22:36 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:22:36 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:22:49 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:22:49 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:22:55 PM: INFO: ************* Providing customer info **********
+06/18/2021 $I:23:10 PM: INFO: ************* Saving customer info **********
+06/18/2021 $I:23:10 PM: INFO: ********* Add customer validation started *****************
+06/18/2021 $I:23:10 PM: INFO: ********* Add customer Test Passed *********
+06/18/2021 $I:23:11 PM: INFO: ******* Ending Add customer test **********
+06/18/2021 $I:35:33 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:35:33 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:35:44 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:35:44 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:35:49 PM: INFO: ************* Providing customer info **********
+06/18/2021 $I:36:01 PM: INFO: ************* Saving customer info **********
+06/18/2021 $I:36:01 PM: INFO: ********* Add customer validation started *****************
+06/18/2021 $I:36:02 PM: INFO: ********* Add customer Test Passed *********
+06/18/2021 $I:36:02 PM: INFO: ******* Ending Add customer test **********
+06/18/2021 $I:36:04 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:36:04 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:36:04 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:36:04 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:36:14 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:36:16 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:36:16 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/18/2021 $I:36:27 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:36:30 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:36:30 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/18/2021 $I:36:53 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:37:07 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:37:19 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:37:30 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:37:30 PM: INFO: Login test with multiple creds passed
+06/18/2021 $I:37:32 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:37:32 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/18/2021 $I:39:38 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:39:38 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:39:51 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:39:51 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:39:57 PM: INFO: ************* Providing customer info **********
+06/18/2021 $I:40:10 PM: INFO: ************* Saving customer info **********
+06/18/2021 $I:40:10 PM: INFO: ********* Add customer validation started *****************
+06/18/2021 $I:40:11 PM: INFO: ********* Add customer Test Passed *********
+06/18/2021 $I:40:11 PM: INFO: ******* Ending Add customer test **********
+06/18/2021 $I:40:13 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:40:13 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:40:13 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:40:13 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:40:23 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:40:25 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:40:25 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/18/2021 $I:40:37 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:40:39 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:40:39 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/18/2021 $I:41:03 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:41:19 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:41:30 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:41:41 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:41:41 PM: INFO: Login test with multiple creds passed
+06/18/2021 $I:41:43 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:41:43 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/18/2021 $I:41:56 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:41:56 PM: INFO: ******* Starting Search Customer By Email **********
+06/18/2021 $I:41:59 PM: INFO: ************* searching customer by emailID **********
+06/18/2021 $I:42:05 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+06/18/2021 $I:42:53 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:42:53 PM: INFO: ************* Test_003_AddCustomer **********
+06/18/2021 $I:43:03 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:43:03 PM: INFO: ******* Starting Add Customer Test **********
+06/18/2021 $I:43:07 PM: INFO: ************* Providing customer info **********
+06/18/2021 $I:43:19 PM: INFO: ************* Saving customer info **********
+06/18/2021 $I:43:19 PM: INFO: ********* Add customer validation started *****************
+06/18/2021 $I:43:21 PM: INFO: ********* Add customer Test Passed *********
+06/18/2021 $I:43:21 PM: INFO: ******* Ending Add customer test **********
+06/18/2021 $I:43:23 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:43:23 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:43:23 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:43:23 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:43:33 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:43:35 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:43:35 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/18/2021 $I:43:47 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:43:49 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:43:49 PM: INFO: *** test_verify_login_with_invalid_creds Execution Started ***
+06/18/2021 $I:44:12 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:44:28 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:44:39 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:44:50 PM: INFO: *** test_verify_login_with_valid_creds Passed ***
+06/18/2021 $I:44:50 PM: INFO: Login test with multiple creds passed
+06/18/2021 $I:44:52 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:44:52 PM: INFO: ************* SearchCustomerByName_005 **********
+06/18/2021 $I:45:03 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:45:03 PM: INFO: ******* Starting Search Customer By Name **********
+06/18/2021 $I:45:07 PM: INFO: ************* searching customer by Name **********
+06/18/2021 $I:45:13 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+06/18/2021 $I:45:15 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:45:15 PM: INFO: ************* SearchCustomerByEmail_004 **********
+06/18/2021 $I:45:27 PM: INFO: ************* Login succesful **********
+06/18/2021 $I:45:27 PM: INFO: ******* Starting Search Customer By Email **********
+06/18/2021 $I:45:30 PM: INFO: ************* searching customer by emailID **********
+06/18/2021 $I:45:36 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+06/18/2021 $I:48:52 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:48:52 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:48:52 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:48:52 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:48:58 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:49:39 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:49:39 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:49:39 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:49:39 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:49:46 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:49:57 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:49:57 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:49:57 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:49:57 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:50:03 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:50:05 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:50:05 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/18/2021 $I:50:18 PM: INFO: *** test_verify_login_with_valid_creds passed ***
+06/18/2021 $I:06:20 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:06:20 PM: INFO: *** test_verify_home_page_title Execution Started***
+06/18/2021 $I:06:20 PM: INFO: *** Initiated Browser ***
+06/18/2021 $I:06:20 PM: INFO: https://admin-demo.nopcommerce.com/
+06/18/2021 $I:06:28 PM: INFO: *** test_verify_home_page_title passed ***
+06/18/2021 $I:06:30 PM: INFO: *** Launching Chrome Browser ***
+06/18/2021 $I:06:30 PM: INFO: *** test_verify_login_with_valid_creds Execution Started ***
+06/18/2021 $I:06:42 PM: INFO: *** test_verify_login_with_valid_creds passed ***
